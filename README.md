@@ -2,6 +2,10 @@
 
 A comprehensive demonstration of plugin architecture in Swift, showing how to build modular, extensible iOS applications using protocol-oriented programming and dependency injection patterns.
 
+## 🎯 Architecture
+
+Checkout the architecture [here](ARCHITECTURE.md)
+
 ## 🎯 Overview
 
 This project demonstrates a clean, production-ready plugin architecture that allows for:
@@ -46,8 +50,8 @@ public protocol Plugin {
 Clone the repository:
 
 ```bash
-git clone https://github.com/cedricbahirwe/ios-plugin-architecture.git
-cd ios-plugin-architecture
+git clone https://github.com/cedricbahirwe/ios-plugin-arch.git
+cd ios-plugin-arch
 ```
 
 ### Building
@@ -192,7 +196,7 @@ All tests use XCTest framework and can be run via `swift test`.
 ## 📁 Project Structure
 
 ```
-ios-plugin-architecture/
+ios-plugin-arch/
 ├── Package.swift
 ├── Sources/
 │   ├── PluginArchitecture/
