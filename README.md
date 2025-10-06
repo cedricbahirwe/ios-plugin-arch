@@ -2,10 +2,6 @@
 
 A comprehensive demonstration of plugin architecture in Swift, showing how to build modular, extensible iOS applications using protocol-oriented programming and dependency injection patterns.
 
-## 🎯 Architecture
-
-Checkout the architecture [here](ARCHITECTURE.md)
-
 ## 🎯 Overview
 
 This project demonstrates a clean, production-ready plugin architecture that allows for:
@@ -16,6 +12,8 @@ This project demonstrates a clean, production-ready plugin architecture that all
 - **Type Safety**: Leverages Swift's strong type system and protocols
 
 ## 🏗️ Architecture
+
+You can read more about the architecture [here](ARCHITECTURE.md)
 
 ### Core Components
 
